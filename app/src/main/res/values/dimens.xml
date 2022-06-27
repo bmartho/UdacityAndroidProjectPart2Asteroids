@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="quarter_margin">4dp</dimen>
+    <dimen name="list_view_primary_text_size">17sp</dimen>
+    <dimen name="list_view_secondary_text_size">15sp</dimen>
+    <dimen name="error_message">22sp</dimen>
+    <dimen name="image_of_day_height">220dp</dimen>
+    <dimen name="image_of_day_text_size">20sp</dimen>
+
+</resources>
